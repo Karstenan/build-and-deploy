@@ -1,5 +1,6 @@
 # build-and-deploy
 
+Test for en commit.
 This exercise is a javascript application, which currently is only partly implemented.
 Using continuous integration and continuous deployment, we will utilize some cloud tools to provide the deployment pipeline.
 We will also use several tools which helps with development of javascript applications like npm, bower and grunt.
