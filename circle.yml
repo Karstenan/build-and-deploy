@@ -9,6 +9,11 @@ test:
   override:
     - grunt test
 
+deployment:
+  staging:
+    branch: master
+    heroku:
+      appname: build-and-possibly-deploy
 #deployment:
 #  prod:
 #    branch: master
